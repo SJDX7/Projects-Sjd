@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "269023611972",
+    "project_id": "watchtogether-by-sjd",
+    "storage_bucket": "watchtogether-by-sjd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269023611972:android:59cd72d61dc61cc51c8011",
+        "android_client_info": {
+          "package_name": "com.example.watchtogetherbysjd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQRVvvmDiujlEYy8oa0MnjJNuA6A4WlNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
